@@ -2,34 +2,14 @@
 
 ![demo](https://github.com/tonightio/rigmebase/blob/main/demo.jpg) \
 ![pipeline](https://github.com/tonightio/rigmebase/blob/main/rigmepipeline.png)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+RigMe is a pipeline of AI models which together allow the input of a 2d body image (similar to T-pose) to a 3D rigged avatar in OBJ, FBX, GLB file formats.
 
-```markdown
-Syntax highlighted code block
+Code is currently private until we clean things up a bit.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ionif/rigmebase/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ This pipeline currently uses the Facebook PiFuHD model, a trained model that converts 2-D images into 3-D OBJ files: https://github.com/facebookresearch/pifuhd
+ 
+ 
+ Made by: \
+ Jaskaran Singh Bakshi | <a href='https://www.linkedin.com/in/jas-bakshi'>LinkedIn</a> \
+ Alex Ionkov | <a href='https://ionkov.tech'>Website</a> <a href='https://www.linkedin.com/in/aionkov'>LinkedIn</a> <a href='https://twitter.com/i0nif'>Twitter</a>
