@@ -1,7 +1,7 @@
 ## RigMe - 2d image to virtual avatar conversion pipeline
 
-![demo](https://github.com/tonightio/rigmebase/blob/main/demo.jpg)
-
+![demo](https://github.com/tonightio/rigmebase/blob/main/demo.jpg) \
+![pipeline](https://github.com/tonightio/rigmebase/blob/main/rigmepipeline.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
